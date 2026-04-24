@@ -27,4 +27,13 @@ POST /webhook
 2. Use Postman:
    POST http://localhost:8081/webhook
 
-## 📸 Screenshots
+## 📷 Screenshots
+
+### Spring Boot Running
+![Spring Boot Running](Spring_boot_running(8081).JPG)
+
+### Postman Hi Response
+![Postman Hi Response](postman_hi_Request_response.JPG)
+
+### Backend Console Logs
+![Backend Console Logs](Backend_Console_Logs.JPG)
